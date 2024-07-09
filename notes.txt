@@ -28,9 +28,10 @@
 **GitHub**
 
 - git init
-- git branch
+- git branch   **making branches**
+- git checkout **changing Branch**
 - git status
-- git add
+- git add "name" or for all files "."
 
 Git Commit
 - Git commit -m "Your Msg Here"
