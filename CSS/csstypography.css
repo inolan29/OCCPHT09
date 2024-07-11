@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
+
+.font-family-size {
+    font-family: "Ga Maamli", sans-serif;
+    font-style: normal;
+
+}
+
+.bold {
+    
+    font-weight: bold;
+
+}
+
+.italic {
+   
+    font-style: italic;
+
+}
+
+.underline {
+    
+    text-decoration: underline;
+
+}
+
+.center-align {
+    
+   text-align: center;
+
+}
+
+.line-through {
+    
+    text-decoration: line-through;
+ 
+ }
+
+ .line-height {
+    
+    line-height: 9;
+ 
+ }
+
+ .letter-spacing {
+    letter-spacing: 9px;
+ }
+
+ .text-shadow{
+    text-shadow: 9px 2px 5px red;
+ }
